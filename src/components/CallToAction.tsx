@@ -33,7 +33,7 @@ const CallToAction: React.FC = () => {
 
     try {
       const res = await axios.post<{ message: string }>(
-        "http://localhost:3400/waitlist/register",
+        "https://zero-print-backend.onrender.com/waitlist/register",
         formData
       );
       setSuccessMessage(res.data.message || "Successfully submitted!");
