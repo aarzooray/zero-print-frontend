@@ -7,7 +7,7 @@ const ErwSection: React.FC = () => {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
         <div className="rounded-xl overflow-hidden shadow-lg order-2 lg:order-1">
           <img
-            src="https://images.unsplash.com/photo-1464226184884-fa280b87c399?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80"
+            src="https://www.hindustantimes.com/ht-img/img/2023/05/22/550x309/b_1684774433184_1684774450502.png"
             alt="Crushed basalt being applied to soil"
             className="w-full h-[400px] object-cover"
           />
